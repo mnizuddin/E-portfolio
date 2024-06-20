@@ -34,24 +34,24 @@
     		<li> Diploma Co-curiculum Certificate 2022 (https://github.com/user-attachments/files/15916360/Co-curiculum.Certificate.pdf) </li>
 	 </section>
 	<section id="assignments-project">
-	<h5>This is all the assignments for this course</h5>
+	<h3>This is all the assignments for this course</h3>
 	<ul>
 		<li> Assignment 1: Report (https://github.com/user-attachments/files/15916725/Assignment.1.-.Group.4.pdf) </li>
   		<li> Assignment 2: Website (https://github.com/user-attachments/files/15916772/Assignment.2.pdf) </li>
     		<li>Assignment 3: Github E-Portfolio (https://github.com/mnizuddin/E-portfolio) </li> 
 	</ul>
- 	<h6> This is the group project progress</h6>
+ 	<h3> This is the group project progress</h3>
   	<ul>
 		<li> Web Host Project (http://bazooka-studentportal.000.pe/) </li>
 	</ul>
 	</section>
  	<section id="reflections">
-  	<h7> This is the reflection for each assignment and project</h7>
+  	<h3> This is the reflection for each assignment and project</h3>
 	<article>
-		<h8>Assignment 1</h8>
+		<h4>Assignment 1</h4>
    		<p> Summary: This task provide some good comparison on evaluate different tools with methods like Web Analyst, Literature Review and Testing. The outcome for this result will get the best practice, accessibility and good performance. </p>
      		<p> Suggestion: Get the important knowledge research with not too compact</p>
-       		<h8> Assignment 2</h8>
+       		<h4> Assignment 2</h4>
 	 	<p> Summary: This task provide to create website with my best design.</p>
    		<p> Suggestion: Get more visually and colorful design website</p>
 	</article>
