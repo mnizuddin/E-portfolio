@@ -23,6 +23,14 @@
 		<li>Programming Languages: Javascript, PHP</li>
 		<li>Web Development: HTML, CSS</li>
 	</ul> 
+	</section>
+	<section id="additional">
+	<h2>This is my Honors and Awards</h2>
+	<ul>
+		<li> [SIJIL INDUKSI DAN WATIKAH PERLANTIKAN PRSPUO SESI JUN 2020.pdf](https://github.com/user-attachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li>
+	</ul> 
+	
+  	
 </section>
 </body>
 </html> 
