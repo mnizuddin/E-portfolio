@@ -46,12 +46,24 @@
  	<section id="reflections">
   	<h3> This is the reflection for each assignment and project</h3>
 	<article>
-		<h4>Assignment 1</h4>
+		<h4>Assignment 1: Report</h4>
    		<p> Summary: This task provide some good comparison on evaluate different tools with methods like Web Analyst, Literature Review and Testing. The outcome for this result will get the best practice, accessibility and good performance. </p>
-     		<p> Suggestion: Get the important knowledge research with not too compact</p>
-       		<h4> Assignment 2</h4>
-	 	<p> Summary: This task provide to create website with my best design.</p>
-   		<p> Suggestion: Get more visually and colorful design website</p>
+     		<p> Suggestion: Get the important knowledge research with not too compact. </p>
+	</article>
+	<article>
+       		<h4> Assignment 2: Website</h4>
+	 	<p> Summary: This task provide to create website with my best design. </p>
+   		<p> Suggestion: Get more visually and colorful design website. </p>
+	</article>
+	<article>
+		<h4> Assignment 3: Github E-Portfolio</h4>
+	 	<p> Summary: This task provide to briefly introduce myself, skills and all the task that has been complete for this web programming course. </p>
+   		<p> Suggestion: Get more tools to research on creating the design. </p> 
+	</article>
+	<article>
+		<h4> Project</h4>
+		<p> Summary: This task provide some idea on how to create our own web design with more accessibility to go any pages. </p>
+		<p> Suggestion: Get more visually and some interesting design for some pages. </p>
 	</article>
 	</section>	
 </body>
