@@ -16,6 +16,7 @@
 	<section id="core">
 	<h2>Education</h2>
 	<ul>
+		<li>Information Technology - Politeknik Ungku Omar, 2019-2022 </li>
 		<li>Bachelor of Computer Science in Networks and Security - UTM, 2023-present </li>
 	</ul>
 	<h2>Web Programming Student</h2>
@@ -27,10 +28,9 @@
 	<section id="additional">
 	<h2>This is my Honors and Awards</h2>
 	<ul>
-		<li> [SIJIL INDUKSI DAN WATIKAH PERLANTIKAN PRSPUO SESI JUN 2020.pdf](https://github.com/user-attachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li>
-	</ul> 
-	
-  	
-</section>
+		<li> Diploma Certificate (https://github.com/user-attachments/files/15916338/Diploma.Certificate.pdf) </li>
+  		<li> Appointment of PRSPUO Certificate  (https://github.com/user-attachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li> 
+    		<li> Diploma Co-curiculum Certificate (https://github.com/user-attachments/files/15916360/Co-curiculum.Certificate.pdf) </li>
+	 </section>
 </body>
 </html> 
