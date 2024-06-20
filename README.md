@@ -9,11 +9,12 @@
 </head>
 <body>
 	<header>
-		<img src="profile-picture.jpg", alt="Profile Picture">
+		<img src="https://github.com/mnizuddin/E-portfolio/assets/154438734/e02670b6-dee3-4d6f-ab76-90a1cabccd28"
+ alt="Profile Picture">
 		<h1> Muhammad Nur Izuddin Bin Nor Shahidan<h/h1>
-		<p>Summary: I am passionate about cybersecurity and network analyst</p>
+		<p>Summary: I am passionate about cybersecurity analyst and want to explore more all the knowledge about computer science in the future.</p>
 	</header>
-	<section id="core">
+	<section id="core">]
 	<h2>Education</h2>
 	<ul>
 		<li>Information Technology - Politeknik Ungku Omar, 2019-2022 </li>
@@ -28,9 +29,9 @@
 	<section id="additional">
 	<h2>This is my Honors and Awards</h2>
 	<ul>
-		<li> Diploma Certificate (https://github.com/user-attachments/files/15916338/Diploma.Certificate.pdf) </li>
-  		<li> Appointment of PRSPUO Certificate  (https://github.com/user-attachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li> 
-    		<li> Diploma Co-curiculum Certificate (https://github.com/user-attachments/files/15916360/Co-curiculum.Certificate.pdf) </li>
+		<li> Diploma Certificate 2022 (https://github.com/user-attachments/files/15916338/Diploma.Certificate.pdf) </li>
+  		<li> Appointment of PRSPUO Certificate  2020 (https://github.com/userattachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li> 
+    		<li> Diploma Co-curiculum Certificate 2022 (https://github.com/user-attachments/files/15916360/Co-curiculum.Certificate.pdf) </li>
 	 </section>
 </body>
 </html> 
