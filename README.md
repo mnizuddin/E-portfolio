@@ -36,9 +36,9 @@
 	<section id="assignments">
 	<h2>This is all the assignments for this course</h2>
 	<ul>
-		<li><a href=(https://github.com/user-attachments/files/15916725/Assignment.1.-.Group.4.pdf)> Assignment 1: Report</a></li>
-  		<li><a href=(https://github.com/user-attachments/files/15916772/Assignment.2.pdf)> Assignment 2: Website</a></li>
-    		<li><a href=> Assignment 3: Github E-Portfolio</a></li>
+		<li> Assignment 1: Report (https://github.com/user-attachments/files/15916725/Assignment.1.-.Group.4.pdf) </li>
+  		<li> Assignment 2: Website (https://github.com/user-attachments/files/15916772/Assignment.2.pdf) </li>
+    		<li>Assignment 3: Github E-Portfolio </li> 
     		
 
 </body>
