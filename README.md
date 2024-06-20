@@ -27,7 +27,7 @@
 	</ul> 
 	</section>
 	<section id="additional">
-	<h4>This is my Honors and Awards</h4>
+	<h3>This is my Honors and Awards</h3>
 	<ul>
 		<li> Diploma Certificate 2022 (https://github.com/user-attachments/files/15916338/Diploma.Certificate.pdf) </li>
   		<li> Appointed as PRSPUO Membership Certificate  2020 (https://github.com/userattachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li> 
