@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-5">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title> This is my E-Portfolio</title>
+	<title> This is my E-Portfolio </title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,5 +13,16 @@
 		<h1> Muhammad Nur Izuddin Bin Nor Shahidan<h/h1>
 		<p>Summary: I am passionate about cybersecurity and network analyst</p>
 	</header>
+	<section id="core">
+	<h2>Education</h2>
+	<ul>
+		<li>Bachelor of Computer Science in Networks and Security - UTM, 2023-present </li>
+	</ul>
+	<h2>Web Programming Student</h2>
+	<ul>
+		<li>Programming Languages: Javascript, PHP</li>
+		<li>Web Development: HTML, CSS</li>
+	</ul> 
+</section>
 </body>
 </html> 
