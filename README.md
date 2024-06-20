@@ -33,13 +33,18 @@
   		<li> Appointment of PRSPUO Certificate  2020 (https://github.com/userattachments/files/15916225/SIJIL.INDUKSI.DAN.WATIKAH.PERLANTIKAN.PRSPUO.SESI.JUN.2020.pdf) </li> 
     		<li> Diploma Co-curiculum Certificate 2022 (https://github.com/user-attachments/files/15916360/Co-curiculum.Certificate.pdf) </li>
 	 </section>
-	<section id="assignments">
+	<section id="assignments-project">
 	<h2>This is all the assignments for this course</h2>
 	<ul>
 		<li> Assignment 1: Report (https://github.com/user-attachments/files/15916725/Assignment.1.-.Group.4.pdf) </li>
   		<li> Assignment 2: Website (https://github.com/user-attachments/files/15916772/Assignment.2.pdf) </li>
-    		<li>Assignment 3: Github E-Portfolio </li> 
+    		<li>Assignment 3: Github E-Portfolio (https://github.com/mnizuddin/E-portfolio) </li> 
+	</ul>
+ 	<h2> This is the group project progress</h2>
+  	<ul>
+		<li> Web Host Project (http://bazooka-studentportal.000.pe/) </li>
+	</ul>
+	</section>
     		
-
 </body>
 </html> 
